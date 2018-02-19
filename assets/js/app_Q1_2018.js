@@ -21484,7 +21484,7 @@ $(document).foundation();
 
 var data = {
     // A labels array that can contain any sort of values
-    labels: ['July', 'August', 'September'],
+    labels: ['October', 'November', 'December'],
     // Our series array that contains series objects or in this case series data arrays
     series: [[1290, 1630, 1410], // MIT
     [1310, 904, 1790], // Stanford
